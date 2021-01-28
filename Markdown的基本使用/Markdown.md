@@ -82,11 +82,14 @@ def function(num1,num2):
 ```
 
 <!-- 表格 -->
-|     name    |   email   |
+
+| name | email |
+| ---- | ----- |
 |      Tom    |  123@qq.com |
 |      Jone   |     456@qq.com|
 
 <!-- 任务列表 -->
+
 - [x] 任务一
 - [x] 任务二
 - [ ] 任务三 
